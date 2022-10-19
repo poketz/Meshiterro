@@ -19,4 +19,6 @@ module Meshiterro
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
   end
+  require 'active_job'
+
 end
